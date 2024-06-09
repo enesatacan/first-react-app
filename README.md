@@ -1,1 +1,1 @@
-# first-react-app
+In this application, which is a sample website design application, it is designed as about and home pages where products can be introduced and pages that can be contacted in order to make the application of 'Burger Yiyelim' company. It was completed using basic components such as components and maps.
